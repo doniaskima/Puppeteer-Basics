@@ -22,7 +22,11 @@ To get started with Puppeteer, you'll need to have Node.js installed on your mac
 
 1. Clone this repository to your local machine:
 
+ git clone https://github.com/doniaskima/Puppeteer-Basics 
+
 2. Navigate to the project directory:
+
+cd Puppeteer-Basics 
 
 3. Install the required dependencies:
 
