@@ -17,5 +17,6 @@ const puppeteer = require('puppeteer');
     //This line evaluates the provided function in the context of the page. In this case, it triggers an alert box with the message 'This message is inside an alert box'. The evaluate() function returns a promise that resolves with the return value of the provided function.
     await browser.close()
     //The close() function returns a promise that resolves when the browser is successfully closed.
+    
   })()
   
